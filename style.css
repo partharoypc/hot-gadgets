@@ -1,0 +1,69 @@
+.container {
+    padding-bottom: 50px;
+}
+
+.custom-bg {
+    background: #fff;
+    border-radius: 10px;
+}
+
+.logo-ing {
+    width: 100px;
+}
+
+.carousel-item {
+    padding: 10px 0px;
+}
+
+.heading,
+.price {
+    color: black;
+    padding-bottom: 10px;
+}
+
+.discription {
+    margin-right: 20px;
+}
+
+.buynow-btn {
+    color: white;
+    padding: 8px 30px;
+    cursor: pointer;
+    background-color: black;
+    border-radius: 5px;
+    border: none;
+    text-transform: uppercase;
+}
+
+* Categories Section Style */ .cate-1,
+.cate-2,
+.cate-3 {
+    border-radius: 10px;
+    padding: 10px 30px;
+}
+
+.cate-1 {
+    background: violet;
+}
+
+.cate-2 {
+    background: rgb(134, 238, 130);
+}
+
+.cate-3 {
+    background: rgb(161, 153, 40);
+}
+
+.categories h1 {
+    color: white;
+}
+
+.card img {
+    width: 50%;
+    justify-items: center;
+}
+
+.see {
+    text-decoration: none;
+    color: orange;
+}
