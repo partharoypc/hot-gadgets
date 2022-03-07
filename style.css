@@ -35,7 +35,10 @@
     text-transform: uppercase;
 }
 
-* Categories Section Style */ .cate-1,
+
+/* Categories Section Style */
+
+.cate-1,
 .cate-2,
 .cate-3 {
     border-radius: 10px;
@@ -66,4 +69,10 @@
 .see {
     text-decoration: none;
     color: orange;
+}
+
+.cat-design {
+    color: goldenrod;
+    height: 2px;
+    width: 20px;
 }
